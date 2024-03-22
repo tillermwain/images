@@ -1,2 +1,2 @@
-# images
+# Hosted Images
 My Images
